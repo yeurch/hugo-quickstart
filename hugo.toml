@@ -1,0 +1,4 @@
+baseURL = 'https://richardfawcett.net/'
+languageCode = 'en-gb'
+title = '''This is Richard's Hugo Site'''
+theme = 'ananke'
